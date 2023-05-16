@@ -29,7 +29,9 @@ ostal/swagger-json/swagger_view </br>
 
  <br>
 
+● Importar </br>
 ![index](https://github.com/georgesbrj/TestePraticoForeverLiving/blob/master/public/img/index.png)
+● Relatorio </br>
 ![relatorio](https://github.com/georgesbrj/TestePraticoForeverLiving/blob/master/public/img/relatorio.png)
 
  
